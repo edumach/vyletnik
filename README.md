@@ -4,7 +4,7 @@
 
 ## Cíl projektu
 
-Vytvořte jednoduchý web „Výletník“, který bude prezentovat vybraná místa v České republice vhodná na výlet. Web bude obsahovat úvodní stránku a jednotlivé stránky s výlety.
+Vytvořte jednoduchý web „Výletník“, který bude prezentovat **čtyři** vybraná místa v České republice vhodná na výlet. Web bude obsahovat úvodní stránku a jednotlivé stránky s výlety.
 
 ---
 
