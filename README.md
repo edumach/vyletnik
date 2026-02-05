@@ -123,6 +123,9 @@ Všechny čtyři prvky:
 
 Mapa se vkládá stejně jako video pomocí značky `<iframe>`, pouze s jinými atributy.
 
+<img src="https://html.edumach.cz/img/iframe-mapy.png" width="400">
+
+
 ---
 
 ## Odkazy
