@@ -52,7 +52,7 @@ Stránka bude splňovat tyto požadavky:
 
 3. **Písmo**
 
-   * Bezpatkové písmo (např. Arial, Verdana nebo webové písmo z Google Fonts).
+   * Bezpatkové písmo (např. Arial, Verdana nebo webové písmo z [Google Fonts](https://fonts.google.com)).
 
 ---
 
