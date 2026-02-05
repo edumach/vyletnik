@@ -132,10 +132,7 @@ Mapa se vkládá stejně jako video pomocí značky `<iframe>`, pouze s jinými 
 
 * Barva: zelená.
 * Písmo: tučné.
-* Po přejetí myší:
-
-  * odkaz se **nepodtrhne**,
-  * nebude mít jiný efekt (pseudotřída `:hover`).
+* Po přejetí myší se odkaz **nepodtrhne** nebo bude mít jiný efekt (pseudotřída `:hover`).
 
 ---
 
