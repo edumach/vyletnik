@@ -151,7 +151,7 @@ Nakonec:
 
 ---
 
-## Kritéria hodnocení projektu
+## Kritéria hodnocení projektu
 
 **Zcela splněno (známka 1):**
 
