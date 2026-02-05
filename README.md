@@ -30,7 +30,7 @@ Tato složka bude obsahovat:
 * Každý výlet bude mít **2 obrázky**.
 * Všechny obrázky:
 
-  * upravte na rozměr **300 × 200 px**,
+  * upravte v grafickém editoru na rozměr **300 × 200 px**,
   * budou mít **barevný rámeček**,
   * budou uložené ve složce pro obrázky.
 
@@ -48,28 +48,7 @@ Stránka bude splňovat tyto požadavky:
 2. **Rozvržení stránky**
 
    * Světle pastelová barva pozadí.
-   * Obsah bude zarovnán na střed a omezen na šířku **800 px**.
-
-Příklad struktury:
-
-```html
-<body>
-  <div class="obal">
-
-  Zde je viditelný obsah
-
-  </div>
-</body>
-```
-
-Příklad stylu:
-
-```css
-.obal {
-  max-width: 800px;
-  margin: auto;
-}
-```
+   * Obsah bude [zarovnán na střed a omezen na šířku **800 px**](https://www.w3schools.com/howto/howto_css_center_website.asp?utm_source=chatgpt.com).
 
 3. **Písmo**
 
